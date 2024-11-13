@@ -19,6 +19,6 @@ public class For_2 {
             }
             System.out.println();
         }
-
+        //2123123
     }
 }
